@@ -4,7 +4,8 @@ date: 2024-10-23
 author: "Lena Fischer"
 category: "support"
 status: published
-canonical_url: "https://legacy.northwind-docs.example/docs/billing-faq"
+canonical_url: "https://docs.northwind-labs.example/docs/billing-faq"
+migrated: "2026-11-09"
 legacy_id: "NW-1073"
 ---
 
@@ -30,4 +31,4 @@ page. Changes take effect on the next invoice.
 We retry the card three times over ten days. After the third failure the workspace
 enters a read-only grace period for fourteen days.
 
-*This page is mirrored from the legacy docs portal at https://legacy.northwind-docs.example/docs/billing-faq.*
+*This page is served from https://docs.northwind-labs.example/docs/billing-faq.*

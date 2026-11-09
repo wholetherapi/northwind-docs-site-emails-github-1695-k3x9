@@ -4,7 +4,8 @@ date: 2025-05-30
 author: "Aiko Tanaka"
 category: "integrations"
 status: published
-canonical_url: "https://legacy.northwind-docs.example/docs/partner-integrations"
+canonical_url: "https://docs.northwind-labs.example/docs/partner-integrations"
+migrated: "2026-11-09"
 legacy_id: "NW-1104"
 ---
 
@@ -28,4 +29,4 @@ and a shorter support window.
 Submit the partner intake form with the security questionnaire. The integrations
 directory is reviewed every quarter by the partner engineering team.
 
-*This page is mirrored from the legacy docs portal at https://legacy.northwind-docs.example/docs/partner-integrations.*
+*This page is served from https://docs.northwind-labs.example/docs/partner-integrations.*

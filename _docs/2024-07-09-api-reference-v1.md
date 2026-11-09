@@ -4,7 +4,8 @@ date: 2024-07-09
 author: "Ravi Patel"
 category: "reference"
 status: published
-canonical_url: "https://legacy.northwind-docs.example/docs/api-reference-v1"
+canonical_url: "https://docs.northwind-labs.example/docs/api-reference-v1"
+migrated: "2026-11-09"
 legacy_id: "NW-1058"
 ---
 
@@ -28,4 +29,4 @@ returns `429` with a `Retry-After` header.
 Collection endpoints accept `page` and `page_size`. The maximum page size is 100
 items; larger values are clamped rather than rejected.
 
-*This page is mirrored from the legacy docs portal at https://legacy.northwind-docs.example/docs/api-reference-v1.*
+*This page is served from https://docs.northwind-labs.example/docs/api-reference-v1.*

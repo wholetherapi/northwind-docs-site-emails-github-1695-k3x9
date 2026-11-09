@@ -4,7 +4,8 @@ date: 2025-02-14
 author: "Tomas Novak"
 category: "security"
 status: published
-canonical_url: "https://legacy.northwind-docs.example/docs/security-hardening"
+canonical_url: "https://docs.northwind-labs.example/docs/security-hardening"
+migrated: "2026-11-09"
 legacy_id: "NW-1090"
 ---
 
@@ -30,4 +31,4 @@ Run through this checklist before exposing any new service to production traffic
 - Alert on repeated authorization failures.
 - Retain access logs for at least 180 days.
 
-*This page is mirrored from the legacy docs portal at https://legacy.northwind-docs.example/docs/security-hardening.*
+*This page is served from https://docs.northwind-labs.example/docs/security-hardening.*

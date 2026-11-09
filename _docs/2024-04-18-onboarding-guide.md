@@ -4,7 +4,8 @@ date: 2024-04-18
 author: "Carla Mendes"
 category: "guides"
 status: published
-canonical_url: "https://legacy.northwind-docs.example/docs/onboarding-guide"
+canonical_url: "https://docs.northwind-labs.example/docs/onboarding-guide"
+migrated: "2026-11-09"
 legacy_id: "NW-1041"
 ---
 
@@ -28,4 +29,4 @@ release note. It is deliberately small so you can see the whole pipeline.
 By the end of week four you should own at least one recurring operational task.
 Write down what you learned so the next person has an easier start.
 
-*This page is mirrored from the legacy docs portal at https://legacy.northwind-docs.example/docs/onboarding-guide.*
+*This page is served from https://docs.northwind-labs.example/docs/onboarding-guide.*
