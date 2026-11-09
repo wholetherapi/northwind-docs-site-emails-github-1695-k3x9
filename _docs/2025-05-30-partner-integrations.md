@@ -26,6 +26,6 @@ and a shorter support window.
 ## Requesting a new connector
 
 Submit the partner intake form with the security questionnaire. The integrations
-directory is reviewed every quarter.
+directory is reviewed every quarter by the partner engineering team.
 
 *This page is mirrored from the legacy docs portal at https://legacy.northwind-docs.example/docs/partner-integrations.*
