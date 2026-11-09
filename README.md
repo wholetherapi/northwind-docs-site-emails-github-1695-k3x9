@@ -1,2 +1,12 @@
-# northwind-docs-site-emails-github-1695-k3x9
-Northwind Labs public documentation site (task fixture)
+# Northwind Labs Documentation Site
+
+This repository hosts the Markdown sources for the public Northwind Labs
+documentation site.
+
+## Layout
+
+- `_docs/` — product, support and reference articles (Jekyll collection)
+- `index.md` — site landing page
+- `_config.yml` — site configuration
+
+Content changes are applied directly to `main` by the documentation maintainers.

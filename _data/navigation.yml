@@ -1,0 +1,7 @@
+main:
+  - title: Onboarding
+    url: /docs/onboarding-guide
+  - title: API Reference
+    url: /docs/api-reference-v1
+  - title: Support
+    url: /docs/billing-faq

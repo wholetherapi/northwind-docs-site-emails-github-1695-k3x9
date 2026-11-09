@@ -1,0 +1,7 @@
+title: Northwind Labs Docs
+baseurl: https://docs.northwind-labs.example
+collections:
+  docs:
+    output: true
+permalink: /:collection/:path/
+markdown: kramdown
